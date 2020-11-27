@@ -1,4 +1,4 @@
-# To Do List [<img src="https://img.shields.io/static/v1?label=Click%20Me&message=Live&color=9cf" width="130"/>](https://d-march.github.io/to-do-project/)
+# To Do List [<img src="https://img.shields.io/static/v1?label=Demo&message=Live&color=9cf" width="130"/>](https://d-march.github.io/to-do-project/)
 
 A web app which works as a to do application.
 
